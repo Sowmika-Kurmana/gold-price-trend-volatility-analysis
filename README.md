@@ -48,6 +48,13 @@ The Excel workbook contains:
 - Data Visualization
 - Interactive Dashboard
 
+## 📂 How to Explore
+
+1. Download the Excel workbook.
+2. Open the `Dashboard` sheet to view the interactive dashboard.
+3. Use the Year and Month Name slicers to filter the visualizations.
+4. Explore the Raw Data, Cleaned Data, Data Analysis, and Data Visualization sheets to understand the analysis workflow.
+
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
