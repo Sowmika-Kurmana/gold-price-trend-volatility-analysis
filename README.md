@@ -36,7 +36,7 @@ charts, Power Query, and slicers.
 
 ## 📊 Dashboard
 
-![Gold Price Dashboard](Dashboard_Screenshot.png)
+![Gold Price Dashboard](Dashboard_screenshot.png)
 
 ## 📁 Workbook Structure
 
